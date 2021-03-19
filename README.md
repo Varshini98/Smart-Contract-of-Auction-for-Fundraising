@@ -12,5 +12,7 @@ Here they are:
 3.Items auctionedare indexed from 0..N-1 where N is the number of items for auction.N is 2.
 4.Each bidder buys just 1 sheet of tickets or tokens; each sheet hasonly 5 tokens.
 5.Assume simple number for the serial numbers for the sheet of tickets: 0,1,2,3.Here we show the tokens of bidder 0 and 1.
+
+For version 2, we need to add a modifier so that only the owner can invoke the function “revealWinner”
     
     
