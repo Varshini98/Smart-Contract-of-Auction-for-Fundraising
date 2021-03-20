@@ -5,7 +5,7 @@ Problem Statement:
     
       
 Assumptions:
-The  description  given  above  is   for a general  penny  social  auction.  For  the  sake  of implementation we will introduce some simplifying assumptions. 
+    The  description  given  above  is   for a general  penny  social  auction.  For  the  sake  of implementation we will introduce some simplifying assumptions. 
 Here they are:
 1.Fixed number of bidders, initialized to 4.All 4 need to self-register. Funds transfer from bidder is automatically done and is not in the scope of this application.
 2.Fixed number of items to be auctioned off,initialized to 3.
